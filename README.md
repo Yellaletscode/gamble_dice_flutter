@@ -18,7 +18,7 @@ Gamble Dice Flutter is a simple Flutter application that randomly generates two 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/<YOUR_USERNAME>/gamble_dice_flutter.git`
+1. Clone the repository: `git clone https://github.com/<yellaletscode>/gamble_dice_flutter.git`
 2. Change into the project directory: `cd gamble_dice_flutter`
 3. Install the dependencies: `flutter pub get`
 4. Run the application: `flutter run`
